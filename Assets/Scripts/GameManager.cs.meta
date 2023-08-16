@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cc064f124ad91cc4297ec9164b23d554
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - whiteTokken: {fileID: 1524873739859776, guid: 20d4f128365328f4b88c15d550adad86,
+      type: 2}
+  - blackTokken: {fileID: 1560108261226618, guid: 425937cf80edc42488fff3e9d396ed55,
+      type: 2}
+  - emptyField: {fileID: 1513890713317788, guid: 38f9f8dc91e3dca4ca65438954adc6a2,
+      type: 2}
+  - chooseTokken: {fileID: 1570362797014672, guid: 21429405c9d24a6438affccea5ecc83b,
+      type: 2}
+  - SubmitButton: {instanceID: 0}
+  - CameraHolder: {instanceID: 0}
+  - Canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
